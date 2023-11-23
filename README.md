@@ -9,6 +9,12 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
+  <img align="center" width="40" height="40" src="https://img.icons8.com/officel/40/react.png" alt="react"/>
+  <img align="center" width="40" height="30" src="https://img.icons8.com/color/48/styled-components.png" alt="styled-components"/>
+  <img align="center" width="40" height="30" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+  <img align="center" width="45" height="48" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" alt="css-modules"/>
+  <img align="center" width="40" height="30" src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" alt="tailwind_css"/>
 </div>
  
  <br>
